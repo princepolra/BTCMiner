@@ -1,3 +1,3 @@
 # BTCMiner
 Python based Bitcoin Miner
-This is the optimized python code for bitcoin mining.
+This is the optimized python script for bitcoin mining.
